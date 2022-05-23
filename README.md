@@ -20,7 +20,7 @@ Returns `favorites` lists. Use `?page={}` for pagination and `?search={}` for se
 
 `GET /favorites/:id`
 
-Returns signle `favorites` list.
+Returns single `favorites` list.
 
 ### Request
 
